@@ -2,8 +2,8 @@ def new_hash
   { }
 end
 
-def my_hash =
-  my_person = {:name => "Ken" }
+def my_hash 
+   {:name => "Ken" }
 end
 
 def pioneer
